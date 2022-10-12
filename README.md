@@ -1,5 +1,8 @@
 # Fake_News_Detection
 
+## Download Dataset
+
+https://drive.google.com/file/d/1NkhIBXSC6t7070tGPxRL3BcI-nBDKt8y/view?usp=sharing
 
 ## How to run (Google Collab)
 1. Download this repository and extract the file
